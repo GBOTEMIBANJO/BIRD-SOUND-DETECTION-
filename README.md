@@ -1,3 +1,6 @@
+BIRD SOUND DETECTION
+
+
 This project focuses on detecting bird sounds from an audio recording (WAV file) using audio signal processing and spectrogram analysis. You used tools like Librosa, OpenCV, and scikit-image's morphology functions to:
 
 Read and analyze sound files
